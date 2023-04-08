@@ -1,10 +1,18 @@
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'heroHome': "url('./src/assets/bg.jpg')",
+      },
+      height: {
+        '128': '24rem',
+      }
+    },
   },
   plugins: [],
 }
