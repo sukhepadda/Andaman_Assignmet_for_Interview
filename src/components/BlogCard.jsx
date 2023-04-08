@@ -2,7 +2,7 @@ import React from 'react'
 
 function BlogCard({ title, tags, img, popularity }) {
     return (
-        <div className="md:max-w-sm m-auto h-full rounded overflow-hidden shadow-lg">
+        <div className="md:max-w-sm m-auto w-full h-full rounded overflow-hidden shadow-lg">
             <img className="w-full" src={img} alt="Sunset in the mountains" />
             <div className="px-6 py-4">
                 <p className="text-green-600 text-sm">

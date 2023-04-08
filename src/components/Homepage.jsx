@@ -21,6 +21,8 @@ export default function Homepage() {
     }
   ]
   return (
+    <>
+
     <div className='homeBg bg-heroHome h-48 md:h-128 bg-no-repeat bg-center bg-cover '>
       <div className='text-center p-9'>
         <h1 class="md:text-7xl text-3xl mt-6 text-white font-atma">ANDAMANS.YOUR WAY.</h1>
@@ -35,5 +37,9 @@ export default function Homepage() {
       }
       </div>
     </div>
+    <div>
+      <img src="https://ocean.go2andaman.com/wp-content/uploads/2021/06/Homepage-Banner-Travel-Guide-e1624512569470.png?compress=true&quality=90&w=1366&dpr=1.0" alt="" />
+    </div>
+    </>
   )
 }

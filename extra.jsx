@@ -1,0 +1,17 @@
+{
+    { category: "Money & Budget" },
+    { category: "Reaching Andaman" },
+    { category: "Things To Do" },
+    { category: "Top Hotels" },
+    { category: "Best Beaches" },
+    { category: "Holiday Ideas" },
+    { category: "Travel Tips" },
+    { category: "Food Recommendations" },
+    { category: "Local Experiences" }, 
+    { category: "Water Sports" }, 
+    { category: "Adventure Sports" }, 
+    { category: "Scuba Diving" }, 
+    { category: "UncategorizedPort" }, 
+    { category: "BlairHavelockNeil" }, 
+    { category: "Island" },
+}
