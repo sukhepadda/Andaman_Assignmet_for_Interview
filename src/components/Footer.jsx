@@ -7,7 +7,7 @@ function Footer() {
         <footer class="bg-[#e4e4e4] mt-5 font-sans">
             <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
                 <div class="md:flex md:justify-between">
-                    <div class="mb-6 w-3/6 md:mb-0">
+                    <div class="mb-6 md:w-3/6 md:mb-0">
 
                         <img src="https://www.go2andaman.com/wp-content/uploads/2020/10/go2andaman.com_Logo-01.svg" class="mr-3 mb-4" alt="Logo" />
                         <p>We’re a small crew of locals and Andaman-lovers helping you make the most of your trip to the Andamans.</p>
